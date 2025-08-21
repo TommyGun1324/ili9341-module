@@ -1,1 +1,1 @@
-library for ili9341 tft display, using micropython and spi
+library for ili9341 tft display and esp32, using micropython and spi
